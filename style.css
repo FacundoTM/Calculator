@@ -1,0 +1,35 @@
+input[type=textfield] {
+    width: 236px;
+    height: 75px;
+    font-size: 32px;
+    background: #f3f3f3;
+    border: 1px solid #bebebe;
+    margin-left: 5px;
+}
+
+input[type=button], input[type=reset] {
+    width: 50px;
+    height: 50px;
+    border: 1px solid #bebebe;
+    margin: 5px;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 800px;
+    font-family: 'DM Sans';
+}
+
+h1 {
+    font-size: 26px;
+    text-align: center;
+}
+
+a {
+    font-size:16px;
+    text-align: center;
+    text-decoration: none;
+    color:#8873EF;
+}
